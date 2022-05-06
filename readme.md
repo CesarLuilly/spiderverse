@@ -4,10 +4,19 @@
 
 # Herramientas
 
-[MyLaunchxApp](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3/1_proyectos.md)
+Basado en las instrucciones de la siguiente URL de programa de capacitacion por LaunchX
+
+[MyLaunchxApp](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3/2_tdd.md)
 
 ¿Dónde aprender más?
 
-* [https://www.w3schools.com/nodejs/nodejs_npm.asp](https://www.w3schools.com/nodejs/nodejs_npm.asp)
-* [https://jestjs.io/](https://jestjs.io/)
-* [https://martinfowler.com/bliki/UnitTest.html](https://martinfowler.com/bliki/UnitTest.html)
+
+```
+TDD Design Software Technique
+
+1. Write a test for the next bit of functionality you want to add.
+2. Write the functional code until the test passes.
+3. Refactor both new and old code to make it well structured.
+```
+
+Referencia: [TDD by Martin Fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
